@@ -67,7 +67,7 @@ Enable: php_opcache.dll
 Refresh the osTicket site in your browse, observe the changes
 
 
-![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/9096631f-4b47-4994-8f60-437ff77a79c6)
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/e260c1a9-c4c0-4834-829a-f3400091cbd5)
 
 
 ![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/4a67ff5d-19fd-4a9e-b868-2dcdcb2d06ae)
