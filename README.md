@@ -149,6 +149,7 @@ Refresh the osTicket site in your browse, observe the changes
 
 ![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/e685f7b6-e788-492b-b826-ba3124c3a424)
 
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/e7d959d4-eeb4-4013-8495-c613e1d6b95a)
 
 
 
