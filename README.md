@@ -22,11 +22,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install / Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
+
+- Installing MySQL 5.5.62
+
+- Creating a directory for PHP
+
+- Registering PHP from within IIS
+
+
 
 <h2>Installation Steps</h2>
 Install / Enable IIS in Windows WITH CGI and Common HTTP Features World Wide Web Services -> Application Development Features ->
