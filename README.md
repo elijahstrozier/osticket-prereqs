@@ -91,7 +91,16 @@ Refresh the osTicket site in your browse, observe the changes
 
 ![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/de321fde-1f01-4a08-8600-5b89032fdfac)
 
-![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/ec4ad05b-dbef-4755-a79c-8da4a794d1b4)
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/3f499e37-6024-4543-86f7-31dbaa8d550f)
+
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/b372479c-6d07-440d-9fca-545c8765bbf3)
+
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/3a11549d-da4d-4ab8-bdee-b0aeb21a4dd2)
+
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/e6247ca8-8a5c-464b-8e3e-88def68864a7)
+
+![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/646b0174-3557-4b32-9a48-4b1b5ce5ee6a)
+
 
 
 ![image](https://github.com/elijahstrozier/osticket-prereqs/assets/161254320/26180948-fe9d-482b-b429-4af69f003de1)
